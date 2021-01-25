@@ -1,0 +1,4 @@
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\obj\Debug\netcoreapp3.1\Novemberprojekt.csprojAssemblyReference.cache
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\obj\Debug\netcoreapp3.1\Novemberprojekt.AssemblyInfoInputs.cache
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\obj\Debug\netcoreapp3.1\Novemberprojekt.AssemblyInfo.cs
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\obj\Debug\netcoreapp3.1\Novemberprojekt.csproj.CoreCompileInputs.cache
