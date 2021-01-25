@@ -19,7 +19,8 @@ namespace Novemberprojekt
             List<string> names = new List<string>() {"Chicken", "Beans", "Pepper", "Orange", "Lentils", "Mango", "Sausage", "Minced meat", "Pineapple"};
             
             List<string> Category = new List<string>() {"Meat", "Vegetable", "Fruit"};
-
+            
+            Console.WriteLine("In ingerefaf", input);
             if(input == "chicken"){
                 name = names[0];
 

@@ -53,14 +53,19 @@ namespace Novemberprojekt
                 System.Console.WriteLine("Todays judges are " + J1.name + ", " + J2.name + " and" + J3.name + ".");
                 System.Console.WriteLine("Press any button when you are ready.");
                 Console.ReadKey();
-
+                
                 System.Console.WriteLine("Type what ingredient you want to use.");
+                input = Console.ReadLine();
 
-                    while(input.ToLower() != "chicken" || input.ToLower() != "minced meat" || input.ToLower() == "sausage" || input.ToLower() == "pepper" || input.ToLower() == "lentils" ||input.ToLower() == "beans" ||input.ToLower() == "orange"|| input.ToLower() == "mango"||input.ToLower() == "pineapple"){
+                    // while(input != "chicken") {
+
+                    while(input.ToLower() != "chicken" && input.ToLower() != "minced meat" && input.ToLower() != "sausage" && input.ToLower() != "pepper" && input.ToLower() != "lentils" &&input.ToLower() != "beans" &&input.ToLower() != "orange"&& input.ToLower() != "mango"&&input.ToLower() != "pineapple"){
                     System.Console.WriteLine("Make sure you spell the ingredient correctly!");
+                    System.Console.WriteLine("Type what ingredient you want to use.");
                     input = Console.ReadLine();
                     }
 
+                    Console.WriteLine("input", input);
                     Ingredient I1 = new Ingredient(input);
 
                 System.Console.WriteLine("You chose " + I1.name + " which is in the " + I1.category + " category.");
@@ -68,26 +73,28 @@ namespace Novemberprojekt
                 System.Console.WriteLine("Type the next ingredient you want to use.");
                 input = Console.ReadLine();
 
-                while(input.ToLower() != "chicken" || input.ToLower() != "minced meat" || input.ToLower() == "sausage" || input.ToLower() == "pepper" || input.ToLower() == "lentils" ||input.ToLower() == "beans" ||input.ToLower() == "orange"|| input.ToLower() == "mango"||input.ToLower() == "pineapple"){
+                while(input.ToLower() != "chicken" && input.ToLower() != "minced meat" && input.ToLower() != "sausage" && input.ToLower() != "pepper" && input.ToLower() != "lentils" &&input.ToLower() != "beans" &&input.ToLower() != "orange"&& input.ToLower() != "mango"&&input.ToLower() != "pineapple"){
                     System.Console.WriteLine("Make sure you spell the ingredient correctly!");
+                    System.Console.WriteLine("Type what ingredient you want to use.");
                     input = Console.ReadLine();
                 }
 
                 Ingredient I2 = new Ingredient(input);
 
-                System.Console.WriteLine("You chose " + I1.name + " which is in the " + I1.category + " category.");
+                System.Console.WriteLine("You chose " + I2.name + " which is in the " + I2.category + " category.");
 
                 System.Console.WriteLine("Now type the last ingredient please.");
                 input = Console.ReadLine();
                 
-                while(input.ToLower() != "chicken" || input.ToLower() != "minced meat" || input.ToLower() == "sausage" || input.ToLower() == "pepper" || input.ToLower() == "lentils" ||input.ToLower() == "beans" ||input.ToLower() == "orange"|| input.ToLower() == "mango"||input.ToLower() == "pineapple"){
+                while(input.ToLower() != "chicken" && input.ToLower() != "minced meat" && input.ToLower() != "sausage" && input.ToLower() != "pepper" && input.ToLower() != "lentils" &&input.ToLower() != "beans" &&input.ToLower() != "orange"&& input.ToLower() != "mango"&&input.ToLower() == "pineapple"){
                     System.Console.WriteLine("Make sure you spell the ingredient correctly!");
+                    System.Console.WriteLine("Type what ingredient you want to use.");
                     input = Console.ReadLine();
                 }
 
                 Ingredient I3 = new Ingredient(input);
 
-                System.Console.WriteLine("You chose " + I1.name + " which is in the " + I1.category + " category.");
+                System.Console.WriteLine("You chose " + I3.name + " which is in the " + I3.category + " category.");
 
                 System.Console.WriteLine("Ok! Now that you have chosen your three ingredients we will move on! Press any button when you are ready");
 

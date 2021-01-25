@@ -2,3 +2,12 @@ C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberproje
 C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\obj\Debug\netcoreapp3.1\Novemberprojekt.AssemblyInfoInputs.cache
 C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\obj\Debug\netcoreapp3.1\Novemberprojekt.AssemblyInfo.cs
 C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\obj\Debug\netcoreapp3.1\Novemberprojekt.csproj.CoreCompileInputs.cache
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\bin\Debug\netcoreapp3.1\Novemberprojekt.exe
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\bin\Debug\netcoreapp3.1\Novemberprojekt.deps.json
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\bin\Debug\netcoreapp3.1\Novemberprojekt.runtimeconfig.json
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\bin\Debug\netcoreapp3.1\Novemberprojekt.runtimeconfig.dev.json
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\bin\Debug\netcoreapp3.1\Novemberprojekt.dll
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\bin\Debug\netcoreapp3.1\Novemberprojekt.pdb
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\obj\Debug\netcoreapp3.1\Novemberprojekt.dll
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\obj\Debug\netcoreapp3.1\Novemberprojekt.pdb
+C:\Users\tobias.lehman\Documents\Webbutveckling\K4\Novemberprojekt\Novemberprojekt\obj\Debug\netcoreapp3.1\Novemberprojekt.genruntimeconfig.cache
