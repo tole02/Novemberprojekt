@@ -28,7 +28,7 @@ namespace Novemberprojekt
             List<string> Ingredients = new List<string>() {"Chicken", "Beans", "Pepper", "Orange", "Lentils", "Mango", "Sausage", "Minced meat", "Pineapple"};
             
             List<string> Category = new List<string>() {"Meat", "Vegetable", "Fruit"};
-            
+            //Slump används för att få ett random namn
             int d = generator.Next(1,7);
 
             if(d == 1){
@@ -49,7 +49,7 @@ namespace Novemberprojekt
             else if(d == 6){
                 name = Names[5];
             }
-
+            //Slump används även för att beräkna vilken kategori och ingrediens domaren gillar
             int a = generator.Next(1,4);
 
             if(a == 1){
